@@ -117,9 +117,27 @@ Máme právo...
 * veřejně?
 
 
-## zpětná vazba (30 minut)
+## Zpětná vazba (30 minut)
 
-* formy
-* zásady 1 na 1
+* příjemce sbírá informace a následně je vyhodnotí
 
-## zhodnocení aktivity (15 min)
+### Kdy ji využijeme
+
+* chceme získat názor druhých
+* reflexe pocitů po hře
+* jestli dotyčný porozumněl dané věci
+* v práci
+
+### Formy
+
+* dotaník - otevřená a uzavřené otázky
+* grafy - procentuální, koláče
+* doplňování věty
+* pomocí škály číslic, barev nebo smajlíků
+* pohybová forma - zvedání rukou, počet prstů
+* osobní pohovor
+* skupinový rozhovor
+
+### Zásady poskytování zpětné vazby
+ viz https://www.acsa.cz/files/web/soubory/posed/2014/Zpetna_vazba.pdf
+## zhodnocení aktivity (5 min)
